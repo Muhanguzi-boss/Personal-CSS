@@ -1645,6 +1645,9 @@
   .align-top {
     vertical-align: top;
   }
+  .text-\[100px\] {
+    font-size: 100px;
+  }
   .leading-none {
     --tw-leading: 1;
     line-height: 1;
